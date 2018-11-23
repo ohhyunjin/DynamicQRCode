@@ -1,2 +1,2 @@
 # DynamicQRCode
-Dynamic QR code app that updates every n seconds.
+Dynamic QR code app developed with React Native that updates every n seconds.
