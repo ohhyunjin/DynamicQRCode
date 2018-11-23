@@ -1,10 +1,10 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/hyunjinoh/Projects/ReactNativeProjects/QRCodeApp/android/app/src/main/AndroidManifest.xml:1:1-26:12
-INJECTED from /Users/hyunjinoh/Projects/ReactNativeProjects/QRCodeApp/android/app/src/main/AndroidManifest.xml:1:1-26:12
-INJECTED from /Users/hyunjinoh/Projects/ReactNativeProjects/QRCodeApp/android/app/src/main/AndroidManifest.xml:1:1-26:12
-INJECTED from /Users/hyunjinoh/Projects/ReactNativeProjects/QRCodeApp/android/app/src/main/AndroidManifest.xml:1:1-26:12
-MERGED from [com.facebook.react:react-native:0.57.4] /Users/hyunjinoh/.gradle/caches/transforms-1/files-1.1/react-native-0.57.4.aar/dc562e0578c3b8c153429e0b04957973/AndroidManifest.xml:2:1-15:12
+ADDED from /Users/hyunjinoh/Projects/ReactNativeProjects/DynamicQRCode/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/hyunjinoh/Projects/ReactNativeProjects/DynamicQRCode/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/hyunjinoh/Projects/ReactNativeProjects/DynamicQRCode/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/hyunjinoh/Projects/ReactNativeProjects/DynamicQRCode/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [com.facebook.react:react-native:0.57.4] /Users/hyunjinoh/.gradle/caches/transforms-1/files-1.1/react-native-0.57.4.aar/0dc9f1cd0fc680da821ca6a30f5e0c8b/AndroidManifest.xml:2:1-15:12
 MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/hyunjinoh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/1547091e52472b97148ce298d4bc5bb2/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-fragment:27.1.1] /Users/hyunjinoh/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/2a2dfbf03c97baaa7e4748791b605020/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/hyunjinoh/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/b390572f464db67890256476d6ddbac8/AndroidManifest.xml:17:1-22:12
@@ -24,81 +24,81 @@ MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/hyunjinoh/.gradle/ca
 MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/hyunjinoh/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/8fc9bcb898fd68cd5a4e68d40cf0ec3a/AndroidManifest.xml:2:1-9:12
 MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/hyunjinoh/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/26fe6bc463edcf38d82e4c5c6411a715/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.0] /Users/hyunjinoh/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/1a19ca536b98bd9955660ded3c8ba2d3/AndroidManifest.xml:17:1-22:12
-INJECTED from /Users/hyunjinoh/Projects/ReactNativeProjects/QRCodeApp/android/app/src/main/AndroidManifest.xml:1:1-26:12
-INJECTED from /Users/hyunjinoh/Projects/ReactNativeProjects/QRCodeApp/android/app/src/main/AndroidManifest.xml:1:1-26:12
-INJECTED from /Users/hyunjinoh/Projects/ReactNativeProjects/QRCodeApp/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/hyunjinoh/Projects/ReactNativeProjects/DynamicQRCode/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/hyunjinoh/Projects/ReactNativeProjects/DynamicQRCode/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/hyunjinoh/Projects/ReactNativeProjects/DynamicQRCode/android/app/src/main/AndroidManifest.xml:1:1-26:12
 	package
-		ADDED from /Users/hyunjinoh/Projects/ReactNativeProjects/QRCodeApp/android/app/src/main/AndroidManifest.xml:2:5-28
-		INJECTED from /Users/hyunjinoh/Projects/ReactNativeProjects/QRCodeApp/android/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/hyunjinoh/Projects/ReactNativeProjects/QRCodeApp/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/hyunjinoh/Projects/ReactNativeProjects/DynamicQRCode/android/app/src/main/AndroidManifest.xml:2:5-28
+		INJECTED from /Users/hyunjinoh/Projects/ReactNativeProjects/DynamicQRCode/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hyunjinoh/Projects/ReactNativeProjects/DynamicQRCode/android/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/hyunjinoh/Projects/ReactNativeProjects/QRCodeApp/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/hyunjinoh/Projects/ReactNativeProjects/QRCodeApp/android/app/src/main/AndroidManifest.xml:1:1-26:12
-		INJECTED from /Users/hyunjinoh/Projects/ReactNativeProjects/QRCodeApp/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hyunjinoh/Projects/ReactNativeProjects/DynamicQRCode/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/hyunjinoh/Projects/ReactNativeProjects/DynamicQRCode/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/hyunjinoh/Projects/ReactNativeProjects/DynamicQRCode/android/app/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /Users/hyunjinoh/Projects/ReactNativeProjects/QRCodeApp/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/hyunjinoh/Projects/ReactNativeProjects/QRCodeApp/android/app/src/main/AndroidManifest.xml:1:1-26:12
-		INJECTED from /Users/hyunjinoh/Projects/ReactNativeProjects/QRCodeApp/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hyunjinoh/Projects/ReactNativeProjects/DynamicQRCode/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/hyunjinoh/Projects/ReactNativeProjects/DynamicQRCode/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/hyunjinoh/Projects/ReactNativeProjects/DynamicQRCode/android/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/hyunjinoh/Projects/ReactNativeProjects/QRCodeApp/android/app/src/main/AndroidManifest.xml:1:11-69
+		ADDED from /Users/hyunjinoh/Projects/ReactNativeProjects/DynamicQRCode/android/app/src/main/AndroidManifest.xml:1:11-69
 uses-permission#android.permission.INTERNET
-ADDED from /Users/hyunjinoh/Projects/ReactNativeProjects/QRCodeApp/android/app/src/main/AndroidManifest.xml:4:5-67
+ADDED from /Users/hyunjinoh/Projects/ReactNativeProjects/DynamicQRCode/android/app/src/main/AndroidManifest.xml:4:5-67
 	android:name
-		ADDED from /Users/hyunjinoh/Projects/ReactNativeProjects/QRCodeApp/android/app/src/main/AndroidManifest.xml:4:22-64
+		ADDED from /Users/hyunjinoh/Projects/ReactNativeProjects/DynamicQRCode/android/app/src/main/AndroidManifest.xml:4:22-64
 uses-permission#android.permission.SYSTEM_ALERT_WINDOW
-ADDED from /Users/hyunjinoh/Projects/ReactNativeProjects/QRCodeApp/android/app/src/main/AndroidManifest.xml:5:5-77
-MERGED from [com.facebook.react:react-native:0.57.4] /Users/hyunjinoh/.gradle/caches/transforms-1/files-1.1/react-native-0.57.4.aar/dc562e0578c3b8c153429e0b04957973/AndroidManifest.xml:11:5-78
-MERGED from [com.facebook.react:react-native:0.57.4] /Users/hyunjinoh/.gradle/caches/transforms-1/files-1.1/react-native-0.57.4.aar/dc562e0578c3b8c153429e0b04957973/AndroidManifest.xml:11:5-78
+ADDED from /Users/hyunjinoh/Projects/ReactNativeProjects/DynamicQRCode/android/app/src/main/AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.57.4] /Users/hyunjinoh/.gradle/caches/transforms-1/files-1.1/react-native-0.57.4.aar/0dc9f1cd0fc680da821ca6a30f5e0c8b/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.57.4] /Users/hyunjinoh/.gradle/caches/transforms-1/files-1.1/react-native-0.57.4.aar/0dc9f1cd0fc680da821ca6a30f5e0c8b/AndroidManifest.xml:11:5-78
 	android:name
-		ADDED from /Users/hyunjinoh/Projects/ReactNativeProjects/QRCodeApp/android/app/src/main/AndroidManifest.xml:5:22-75
+		ADDED from /Users/hyunjinoh/Projects/ReactNativeProjects/DynamicQRCode/android/app/src/main/AndroidManifest.xml:5:22-75
 application
-ADDED from /Users/hyunjinoh/Projects/ReactNativeProjects/QRCodeApp/android/app/src/main/AndroidManifest.xml:7:5-24:19
-MERGED from [com.facebook.react:react-native:0.57.4] /Users/hyunjinoh/.gradle/caches/transforms-1/files-1.1/react-native-0.57.4.aar/dc562e0578c3b8c153429e0b04957973/AndroidManifest.xml:13:5-20
-MERGED from [com.facebook.react:react-native:0.57.4] /Users/hyunjinoh/.gradle/caches/transforms-1/files-1.1/react-native-0.57.4.aar/dc562e0578c3b8c153429e0b04957973/AndroidManifest.xml:13:5-20
+ADDED from /Users/hyunjinoh/Projects/ReactNativeProjects/DynamicQRCode/android/app/src/main/AndroidManifest.xml:7:5-24:19
+MERGED from [com.facebook.react:react-native:0.57.4] /Users/hyunjinoh/.gradle/caches/transforms-1/files-1.1/react-native-0.57.4.aar/0dc9f1cd0fc680da821ca6a30f5e0c8b/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.57.4] /Users/hyunjinoh/.gradle/caches/transforms-1/files-1.1/react-native-0.57.4.aar/0dc9f1cd0fc680da821ca6a30f5e0c8b/AndroidManifest.xml:13:5-20
 MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/hyunjinoh/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/f2d16461a6b455f8a47ffca5464e4f4b/AndroidManifest.xml:11:5-20
 MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/hyunjinoh/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/f2d16461a6b455f8a47ffca5464e4f4b/AndroidManifest.xml:11:5-20
 MERGED from [org.webkit:android-jsc:r174650] /Users/hyunjinoh/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/06d6b2837303ae5cbd139e2f7bdbef71/AndroidManifest.xml:2:3-17
 MERGED from [org.webkit:android-jsc:r174650] /Users/hyunjinoh/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/06d6b2837303ae5cbd139e2f7bdbef71/AndroidManifest.xml:2:3-17
 	android:label
-		ADDED from /Users/hyunjinoh/Projects/ReactNativeProjects/QRCodeApp/android/app/src/main/AndroidManifest.xml:9:7-39
+		ADDED from /Users/hyunjinoh/Projects/ReactNativeProjects/DynamicQRCode/android/app/src/main/AndroidManifest.xml:9:7-39
 	android:icon
-		ADDED from /Users/hyunjinoh/Projects/ReactNativeProjects/QRCodeApp/android/app/src/main/AndroidManifest.xml:10:7-41
+		ADDED from /Users/hyunjinoh/Projects/ReactNativeProjects/DynamicQRCode/android/app/src/main/AndroidManifest.xml:10:7-41
 	android:allowBackup
-		ADDED from /Users/hyunjinoh/Projects/ReactNativeProjects/QRCodeApp/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /Users/hyunjinoh/Projects/ReactNativeProjects/DynamicQRCode/android/app/src/main/AndroidManifest.xml:11:7-34
 	android:theme
-		ADDED from /Users/hyunjinoh/Projects/ReactNativeProjects/QRCodeApp/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /Users/hyunjinoh/Projects/ReactNativeProjects/DynamicQRCode/android/app/src/main/AndroidManifest.xml:12:7-38
 	android:name
-		ADDED from /Users/hyunjinoh/Projects/ReactNativeProjects/QRCodeApp/android/app/src/main/AndroidManifest.xml:8:7-38
+		ADDED from /Users/hyunjinoh/Projects/ReactNativeProjects/DynamicQRCode/android/app/src/main/AndroidManifest.xml:8:7-38
 activity#com.qrcodeapp.MainActivity
-ADDED from /Users/hyunjinoh/Projects/ReactNativeProjects/QRCodeApp/android/app/src/main/AndroidManifest.xml:13:7-22:18
+ADDED from /Users/hyunjinoh/Projects/ReactNativeProjects/DynamicQRCode/android/app/src/main/AndroidManifest.xml:13:7-22:18
 	android:label
-		ADDED from /Users/hyunjinoh/Projects/ReactNativeProjects/QRCodeApp/android/app/src/main/AndroidManifest.xml:15:9-41
+		ADDED from /Users/hyunjinoh/Projects/ReactNativeProjects/DynamicQRCode/android/app/src/main/AndroidManifest.xml:15:9-41
 	android:windowSoftInputMode
-		ADDED from /Users/hyunjinoh/Projects/ReactNativeProjects/QRCodeApp/android/app/src/main/AndroidManifest.xml:17:9-51
+		ADDED from /Users/hyunjinoh/Projects/ReactNativeProjects/DynamicQRCode/android/app/src/main/AndroidManifest.xml:17:9-51
 	android:configChanges
-		ADDED from /Users/hyunjinoh/Projects/ReactNativeProjects/QRCodeApp/android/app/src/main/AndroidManifest.xml:16:9-79
+		ADDED from /Users/hyunjinoh/Projects/ReactNativeProjects/DynamicQRCode/android/app/src/main/AndroidManifest.xml:16:9-79
 	android:name
-		ADDED from /Users/hyunjinoh/Projects/ReactNativeProjects/QRCodeApp/android/app/src/main/AndroidManifest.xml:14:9-37
+		ADDED from /Users/hyunjinoh/Projects/ReactNativeProjects/DynamicQRCode/android/app/src/main/AndroidManifest.xml:14:9-37
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/hyunjinoh/Projects/ReactNativeProjects/QRCodeApp/android/app/src/main/AndroidManifest.xml:18:9-21:25
+ADDED from /Users/hyunjinoh/Projects/ReactNativeProjects/DynamicQRCode/android/app/src/main/AndroidManifest.xml:18:9-21:25
 action#android.intent.action.MAIN
-ADDED from /Users/hyunjinoh/Projects/ReactNativeProjects/QRCodeApp/android/app/src/main/AndroidManifest.xml:19:13-65
+ADDED from /Users/hyunjinoh/Projects/ReactNativeProjects/DynamicQRCode/android/app/src/main/AndroidManifest.xml:19:13-65
 	android:name
-		ADDED from /Users/hyunjinoh/Projects/ReactNativeProjects/QRCodeApp/android/app/src/main/AndroidManifest.xml:19:21-62
+		ADDED from /Users/hyunjinoh/Projects/ReactNativeProjects/DynamicQRCode/android/app/src/main/AndroidManifest.xml:19:21-62
 category#android.intent.category.LAUNCHER
-ADDED from /Users/hyunjinoh/Projects/ReactNativeProjects/QRCodeApp/android/app/src/main/AndroidManifest.xml:20:13-73
+ADDED from /Users/hyunjinoh/Projects/ReactNativeProjects/DynamicQRCode/android/app/src/main/AndroidManifest.xml:20:13-73
 	android:name
-		ADDED from /Users/hyunjinoh/Projects/ReactNativeProjects/QRCodeApp/android/app/src/main/AndroidManifest.xml:20:23-70
+		ADDED from /Users/hyunjinoh/Projects/ReactNativeProjects/DynamicQRCode/android/app/src/main/AndroidManifest.xml:20:23-70
 activity#com.facebook.react.devsupport.DevSettingsActivity
-ADDED from /Users/hyunjinoh/Projects/ReactNativeProjects/QRCodeApp/android/app/src/main/AndroidManifest.xml:23:7-84
+ADDED from /Users/hyunjinoh/Projects/ReactNativeProjects/DynamicQRCode/android/app/src/main/AndroidManifest.xml:23:7-84
 	android:name
-		ADDED from /Users/hyunjinoh/Projects/ReactNativeProjects/QRCodeApp/android/app/src/main/AndroidManifest.xml:23:17-81
+		ADDED from /Users/hyunjinoh/Projects/ReactNativeProjects/DynamicQRCode/android/app/src/main/AndroidManifest.xml:23:17-81
 uses-sdk
-INJECTED from /Users/hyunjinoh/Projects/ReactNativeProjects/QRCodeApp/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/hyunjinoh/Projects/ReactNativeProjects/QRCodeApp/android/app/src/main/AndroidManifest.xml
-INJECTED from /Users/hyunjinoh/Projects/ReactNativeProjects/QRCodeApp/android/app/src/main/AndroidManifest.xml
-MERGED from [com.facebook.react:react-native:0.57.4] /Users/hyunjinoh/.gradle/caches/transforms-1/files-1.1/react-native-0.57.4.aar/dc562e0578c3b8c153429e0b04957973/AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.react:react-native:0.57.4] /Users/hyunjinoh/.gradle/caches/transforms-1/files-1.1/react-native-0.57.4.aar/dc562e0578c3b8c153429e0b04957973/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/hyunjinoh/Projects/ReactNativeProjects/DynamicQRCode/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/hyunjinoh/Projects/ReactNativeProjects/DynamicQRCode/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/hyunjinoh/Projects/ReactNativeProjects/DynamicQRCode/android/app/src/main/AndroidManifest.xml
+MERGED from [com.facebook.react:react-native:0.57.4] /Users/hyunjinoh/.gradle/caches/transforms-1/files-1.1/react-native-0.57.4.aar/0dc9f1cd0fc680da821ca6a30f5e0c8b/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.57.4] /Users/hyunjinoh/.gradle/caches/transforms-1/files-1.1/react-native-0.57.4.aar/0dc9f1cd0fc680da821ca6a30f5e0c8b/AndroidManifest.xml:7:5-9:41
 MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/hyunjinoh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/1547091e52472b97148ce298d4bc5bb2/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/hyunjinoh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/1547091e52472b97148ce298d4bc5bb2/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-fragment:27.1.1] /Users/hyunjinoh/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/2a2dfbf03c97baaa7e4748791b605020/AndroidManifest.xml:20:5-44
@@ -135,19 +135,19 @@ MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/hyunjinoh/.gradle/cach
 MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/hyunjinoh/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/26fe6bc463edcf38d82e4c5c6411a715/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.core:runtime:1.1.0] /Users/hyunjinoh/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/1a19ca536b98bd9955660ded3c8ba2d3/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.core:runtime:1.1.0] /Users/hyunjinoh/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/1a19ca536b98bd9955660ded3c8ba2d3/AndroidManifest.xml:20:5-44
-INJECTED from /Users/hyunjinoh/Projects/ReactNativeProjects/QRCodeApp/android/app/src/main/AndroidManifest.xml
-INJECTED from /Users/hyunjinoh/Projects/ReactNativeProjects/QRCodeApp/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/hyunjinoh/Projects/ReactNativeProjects/DynamicQRCode/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/hyunjinoh/Projects/ReactNativeProjects/DynamicQRCode/android/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /Users/hyunjinoh/Projects/ReactNativeProjects/QRCodeApp/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/hyunjinoh/Projects/ReactNativeProjects/QRCodeApp/android/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/hyunjinoh/Projects/ReactNativeProjects/QRCodeApp/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hyunjinoh/Projects/ReactNativeProjects/DynamicQRCode/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/hyunjinoh/Projects/ReactNativeProjects/DynamicQRCode/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hyunjinoh/Projects/ReactNativeProjects/DynamicQRCode/android/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/hyunjinoh/Projects/ReactNativeProjects/QRCodeApp/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/hyunjinoh/Projects/ReactNativeProjects/QRCodeApp/android/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/hyunjinoh/Projects/ReactNativeProjects/QRCodeApp/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hyunjinoh/Projects/ReactNativeProjects/DynamicQRCode/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/hyunjinoh/Projects/ReactNativeProjects/DynamicQRCode/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hyunjinoh/Projects/ReactNativeProjects/DynamicQRCode/android/app/src/main/AndroidManifest.xml
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-IMPLIED from /Users/hyunjinoh/Projects/ReactNativeProjects/QRCodeApp/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+IMPLIED from /Users/hyunjinoh/Projects/ReactNativeProjects/DynamicQRCode/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
 uses-permission#android.permission.READ_PHONE_STATE
-IMPLIED from /Users/hyunjinoh/Projects/ReactNativeProjects/QRCodeApp/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+IMPLIED from /Users/hyunjinoh/Projects/ReactNativeProjects/DynamicQRCode/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-IMPLIED from /Users/hyunjinoh/Projects/ReactNativeProjects/QRCodeApp/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
+IMPLIED from /Users/hyunjinoh/Projects/ReactNativeProjects/DynamicQRCode/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE

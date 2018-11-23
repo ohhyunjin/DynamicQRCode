@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/hyunjinoh/Projects/ReactNativeProjects/QRCodeApp/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ms/values-ms.xml",
+            "outputFile": "/Users/hyunjinoh/Projects/ReactNativeProjects/DynamicQRCode/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ms/values-ms.xml",
             "map": [
                 {
                     "source": "/Users/hyunjinoh/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/a21677efc952b8dd653d9409b31401f8/res/values-ms/values-ms.xml",
